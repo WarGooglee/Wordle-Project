@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NxrjynkFKUaromTvRaU0eYeY8QiwERit+9d/uzTQfw84kXPnBOwJWQ9BbaEM8ma3i2hON8V2RE/Ul1YIZEUXyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\graem\\source\\repos\\Wordle Project\\Wordle Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\graem\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
